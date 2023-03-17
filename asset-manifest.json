@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hackernews-api/static/css/main.c2cab247.css",
+    "main.js": "/hackernews-api/static/js/main.d2fdf9d3.js",
+    "index.html": "/hackernews-api/index.html",
+    "main.c2cab247.css.map": "/hackernews-api/static/css/main.c2cab247.css.map",
+    "main.d2fdf9d3.js.map": "/hackernews-api/static/js/main.d2fdf9d3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2cab247.css",
+    "static/js/main.d2fdf9d3.js"
+  ]
+}
